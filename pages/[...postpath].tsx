@@ -18,7 +18,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					'https://usalivetv.000webhostapp.com/'
+					'https://www.profitablegatecpm.com/ydwgk6rg?key=3afd21cc79f1bfae0a7d7f24376bdafc/'
 				}`,
 			},
 		};
